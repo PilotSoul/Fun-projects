@@ -1,3 +1,4 @@
 # Fun-projects
-My small projects on Python
-1. Coffee-machine is my first project with Hyperskill
+Small projects on Python
+1. Coffee-machine is first project with Hyperskill
+2. Tic-tac-toe is a simple project
